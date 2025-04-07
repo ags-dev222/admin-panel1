@@ -10,7 +10,7 @@ import UserManagement from "./pages/UserManagement"; // ✅ NEW - User Managemen
 import Settings from "./pages/Settings"; // ✅ NEW - Settings Page
 import Login from "./pages/Login";
 import ForgotPassword from "./pages/ForgotPassword";
-import OtpVerification from "./pages/OTPVerification.jsx"; // ✅ NEW - OTP Verification Page
+import OtpVerification from "./pages/OTPVerification"; // ✅ NEW - OTP Verification Page
 import ResetPassword from "./pages/ResetPassword"; // ✅ NEW - Reset Password Page
 import ProtectedRoute from "./routes/ProtectedRoute";
 
