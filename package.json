@@ -10,11 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
     "admin": "file:",
     "apexcharts": "^4.5.0",
     "axios": "^1.8.2",
     "chart.js": "^4.4.8",
     "framer-motion": "^12.6.3",
+    "lucide-react": "^0.487.0",
     "react": "^19.0.0",
     "react-apexcharts": "^1.7.0",
     "react-chartjs-2": "^5.3.0",
